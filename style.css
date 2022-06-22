@@ -1,0 +1,33 @@
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 0 20px 0;
+}
+body{
+    background-color: rgb(241, 234, 225);
+}
+p{
+    font-size: 18px;
+    padding: 0 40px 0 40px;
+}
+#liste1 {
+    list-style: none;
+    display: inline-flex;
+}
+#liste1 li{
+    padding: 0 20px 0 20px;
+    color: rgb(144, 81, 41);
+}
+article ul,
+article ol{
+    font-size: 18px;
+    display: inline-block;
+    text-align: left;
+}
+article{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
